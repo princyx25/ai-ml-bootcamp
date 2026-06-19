@@ -162,11 +162,3 @@ Suggestions, improvements, and discussions are always welcome!
 ## ⭐ Support
 
 If you find this repository useful, consider giving it a ⭐ to support my learning journey!
-
-```
-
-### 💡 Repository Description
-
-Use this as the repository description:
-
-> 🤖 Comprehensive collection of notes, assignments, projects, datasets, and code implementations from my AI & Machine Learning Bootcamp journey. 🚀📚
