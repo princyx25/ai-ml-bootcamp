@@ -98,6 +98,7 @@ AI-ML-Bootcamp-Resources/
 <a href="https://github.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
+
 ### Libraries
 
 - NumPy
