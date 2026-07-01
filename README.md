@@ -80,24 +80,26 @@ AI-ML-Bootcamp-Resources/
 - Ethics in AI
 
 ---
+## Tools & Technologies
 
-## 🛠️ Tools & Technologies
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" width="60"/>
-</a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
-</a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" width="60"/>
-</a>
+  <a href="https://github.com/princyx25" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="60"/>
-</a>
 
 ### Libraries
 
@@ -139,6 +141,22 @@ Exploring datasets to uncover insights through visualization and machine learnin
 - Pandas Documentation
 
 ---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://github.com/princyx25" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="60"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/princy-jaat-3608a5388/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.icons8.com/color/96/domain.png" width="60"/>
+  </a>
+</p>
 
 ## Contributions
 
