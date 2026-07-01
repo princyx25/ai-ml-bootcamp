@@ -81,12 +81,23 @@ AI-ML-Bootcamp-Resources/
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
-</p>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" width="60"/>
+</a>
 
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" width="60"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
 ### Libraries
 
 - NumPy
