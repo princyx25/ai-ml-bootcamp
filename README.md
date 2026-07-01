@@ -1,8 +1,8 @@
 # AIML-bootcamp-resource
 A curated collection of notes, assignments, code examples, projects, and learning resources from my AI &amp; Machine Learning Bootcamp journey. This repository serves as a structured reference for concepts, hands-on exercises, and practical implementations in AI/ML.
-# 🤖 AI & Machine Learning Bootcamp Resources
+#  AI & Machine Learning Bootcamp Resources
 
-Welcome to my AI & Machine Learning Bootcamp Resources Repository! 🚀
+Welcome to my AI & Machine Learning Bootcamp Resources Repository! 
 
 This repository contains all the notes, assignments, practice exercises, projects, datasets, and code implementations that I worked on during my AI & ML Bootcamp journey.
 
@@ -10,25 +10,25 @@ Whether you're a beginner starting your AI journey or looking for structured lea
 
 ---
 
-## 🌟 About This Repository
+##  About This Repository
 
 This repository serves as a centralized collection of:
 
 📚 Lecture Notes
 
-📝 Assignments & Exercises
+ Assignments & Exercises
 
-🐍 Python Programming for AI/ML
+Python Programming for AI/ML
 
-📊 Data Analysis & Visualization
+Data Analysis & Visualization
 
-🤖 Machine Learning Algorithms
+Machine Learning Algorithms
 
-🧠 Artificial Intelligence Concepts
+Artificial Intelligence Concepts
 
-📂 Datasets
+Datasets
 
-🚀 Mini Projects & Case Studies
+Mini Projects & Case Studies
 
 ---
 
@@ -37,10 +37,10 @@ This repository serves as a centralized collection of:
 ```text
 AI-ML-Bootcamp-Resources/
 │
-├── Notes/
-│   ├── Python
-│   ├── Machine Learning
-│   ├── AI Fundamentals
+├── Web_Scraping/
+│   ├── Static
+│   ├── Dynamic
+│   ├── API
 │
 ├── Assignments/
 │
@@ -57,9 +57,9 @@ AI-ML-Bootcamp-Resources/
 
 ---
 
-## 🚀 Topics Covered
+## Topics Covered
 
-### 🐍 Python for AI/ML
+### Python for AI/ML
 
 - Variables & Data Types
 - Functions
@@ -68,14 +68,14 @@ AI-ML-Bootcamp-Resources/
 - Exception Handling
 - Libraries
 
-### 📊 Data Analysis
+### Data Analysis
 
 - NumPy
 - Pandas
 - Data Cleaning
 - Data Visualization
 
-### 🤖 Machine Learning
+### Machine Learning
 
 - Supervised Learning
 - Unsupervised Learning
@@ -83,7 +83,7 @@ AI-ML-Bootcamp-Resources/
 - Regression
 - Model Evaluation
 
-### 🧠 Artificial Intelligence
+### Artificial Intelligence
 
 - AI Fundamentals
 - Problem Solving
@@ -92,7 +92,7 @@ AI-ML-Bootcamp-Resources/
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
@@ -107,7 +107,7 @@ AI-ML-Bootcamp-Resources/
 
 ---
 
-## 📌 Learning Goals
+## Learning Goals
 
 - Build a strong foundation in AI & ML
 - Learn industry-standard tools and workflows
@@ -116,20 +116,20 @@ AI-ML-Bootcamp-Resources/
 - Explore practical applications of Artificial Intelligence
 
 ---
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎓 Student Dropout Prediction System
+### Student Dropout Prediction System
 Predicting students at risk of dropping out using machine learning.
 
-### 🛡️ AI-Based Phishing Detection
+### AI-Based Phishing Detection
 Using AI techniques to identify phishing attacks and improve cybersecurity.
 
-### 📊 Data Analysis Projects
+###  Data Analysis Projects
 Exploring datasets to uncover insights through visualization and machine learning.
 
 ---
 
-## 📚 Useful Resources
+## Useful Resources
 
 - Machine Learning Documentation
 - Python Documentation
@@ -139,7 +139,7 @@ Exploring datasets to uncover insights through visualization and machine learnin
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 This repository is primarily for learning and documentation purposes.
 
@@ -147,18 +147,15 @@ Suggestions, improvements, and discussions are always welcome!
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Princy**
 
-🎓 B.Tech Computer Science Engineering Student
+- B.Tech Computer Science Engineering Student
 
-💡 Exploring Artificial Intelligence, Machine Learning, and Software Development
+- Exploring Artificial Intelligence, Machine Learning, and Software Development
 
-🌱 Learning • Building • Growing Every Day
+- Learning • Building • Growing Every Day
 
 ---
 
-## ⭐ Support
-
-If you find this repository useful, consider giving it a ⭐ to support my learning journey!
