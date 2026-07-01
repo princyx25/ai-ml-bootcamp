@@ -153,11 +153,6 @@ Exploring datasets to uncover insights through visualization and machine learnin
     <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
   </a>
 
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.icons8.com/color/96/domain.png" width="60"/>
-  </a>
-</p>
-
 ## Contributions
 
 This repository is primarily for learning and documentation purposes.
