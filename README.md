@@ -42,17 +42,6 @@ AI-ML-Bootcamp-Resources/
 │   ├── Dynamic
 │   ├── API
 │
-├── Assignments/
-│
-├── Practice/
-│
-├── Datasets/
-│
-├── Projects/
-│
-├── Presentations/
-│
-└── Resources/
 ```
 
 ---
